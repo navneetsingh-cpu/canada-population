@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math
 
-URL = ""
+URL = "https://raw.githubusercontent.com/navneetsingh-cpu/canada-population/main/data/quarterly_canada_population.csv"
 
 millnames = ["", " Thousand", " Million", " Billion", " Trillion"]
 
